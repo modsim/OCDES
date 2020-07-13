@@ -5,13 +5,13 @@ This code is an extension of my work at Forschungszentrum Juelich GmbH.
 
 # Overview
 OCDES is a MATLAB-based tool that performs numerical integration to solve Optimization-Constrained Differential Equations (OCDE):                                                            
-x ̇=f(x,v), x(0)=x_0,	(1a)
+dx = f(x,v), x(0)=x_0,	 (1a)
 
-v∈arg  min_v ⁡g(x,v),	(1b)
+v∈arg min_v ⁡g(x,v),	    (1b)
 
-s.t.h_i (x,v)=0, i=1,…,M, (1c)
+s.t.h_i(x,v)=0, i=1,…,M, (1c)
 
-l_j (x,v)  ≥0,  j=1,…,N	(1d)
+   l_j(x,v)≥0,  j=1,…,N. (1d)
 
 x∈R^m and v∈R^n. f:R^m×R^n→R^m, g:R^m×R^n→R,h_i:R^m×R^n→R , l_j:R^m×R^n→R are at least second order continuously differentiable. OCDES provides efficient numerical solution of OCDE by using local optimality condition. A sequence of DAE systems are generated and classical index-1 DAE simulator is applied to solve the derived DAE systems.
 
