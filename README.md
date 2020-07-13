@@ -1,5 +1,7 @@
 # OCDES: OCDE Simulator
-07.2020
+Xiao Zhao, Forschungszentrum Juelich GmbH, 07.2020
+
+This code is an extension of my work at Forschungszentrum Juelich GmbH. 
 
 # Overview
 OCDES is a MATLAB-based tool that performs numerical integration to solve Optimization-Constrained Differential Equations (OCDE):                                                            
