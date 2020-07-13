@@ -1,8 +1,4 @@
 # OCDES: OCDE Simulator
-Xiao Zhao, Forschungszentrum Juelich GmbH
-
-Email: xiao.zhao@outlook.de. 
-
 07.2020
 
 # Overview
