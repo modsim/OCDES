@@ -59,7 +59,7 @@ opt_sol.opt_integrator:	Integration options
 Please cite [1], if you use the code.
 
 # License
-Copyright (c) 2020: Forschungszentrum Juelich GmbH, Juelich, Germany. 
+Copyright (c) 2020: Forschungszentrum Jülich GmbH, Jülich, Germany. 
 
 Author: Xiao Zhao, Email: Xiao.Zhao@outlook.de
 
